@@ -1,0 +1,133 @@
+/*======================================
+Theme Name: Divi Child Theme By The 20
+Theme URI: https://www.The20.com/
+Description: This is a Divi child theme for use by The 20
+Author: H. Michael Wayland
+Author URI: https://www.The20.com/
+Author Email: web@the20.com
+Template: Divi
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+======================================*/
+
+ /* ===== NOTES ==================================================================
+ * 
+ * List any noted here: None yet
+ * 
+ * =============================================================================== */
+
+/*add your custom CSS below this line*/
+
+/********* Image Aspect Ratios ************/
+/*image aspect ratio square 1:1*/
+.image-1-1 .et_pb_image_wrap {
+padding-top: 100%;
+display: block;
+}
+.image-1-1 .et_pb_image_wrap img {
+position: absolute;
+height: 100%;
+width: 100%;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+object-fit: cover;
+}
+
+/*image aspect ratio landscape 16:9*/
+.image-16-9 .et_pb_image_wrap {
+padding-top: 56.25%;
+display: block;
+}
+.image-16-9 .et_pb_image_wrap img {
+position: absolute;
+height: 100%;
+width: 100%;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+object-fit: cover;
+}
+
+/*image aspect ratio landscape 4:3*/
+.image-4-3 .et_pb_image_wrap {
+padding-top: 75%;
+display: block;
+}
+.image-4-3 .et_pb_image_wrap img {
+position: absolute;
+height: 100%;
+width: 100%;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+object-fit: cover;
+}
+
+/*image aspect ratio landscape 3:2*/
+.image-3-2 .et_pb_image_wrap {
+padding-top: 66.66%;
+display: block;
+}
+.image-3-2 .et_pb_image_wrap img {
+position: absolute;
+height: 100%;
+width: 100%;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+object-fit: cover;
+}
+
+/*image aspect ratio landscape 9:16*/
+.image-9-16 .et_pb_image_wrap {
+padding-top: 177.77%;
+display: block;
+}
+.image-9-16 .et_pb_image_wrap img {
+position: absolute;
+height: 100%;
+width: 100%;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+object-fit: cover;
+}
+
+/*image aspect ratio landscape 3:4*/
+.image-3-4 .et_pb_image_wrap {
+padding-top: 133.33%;
+display: block;
+}
+.image-3-4 .et_pb_image_wrap img {
+position: absolute;
+height: 100%;
+width: 100%;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+object-fit: cover;
+}
+
+/*image aspect ratio landscape 2:3*/
+.image-2-3 .et_pb_image_wrap {
+padding-top: 150%;
+display: block;
+}
+.image-2-3 .et_pb_image_wrap img {
+position: absolute;
+height: 100%;
+width: 100%;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+object-fit: cover;
+}
