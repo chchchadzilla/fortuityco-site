@@ -14,3 +14,5 @@
 #main-content .et_pb_group_carousel_slide{flex:0 0 auto}#main-content .et_pb_group_carousel{display:flex;gap:24px;overflow-x:auto;align-items:center;padding:10px 0}
 #main-content .et_pb_blurb_content{max-width:100%}#main-content .et_pb_blurb_position_top .et_pb_main_blurb_image{margin-bottom:18px}
 #main-content .et_pb_divider{border-top:1px solid #b4975a;margin:18px auto;max-width:80px}
+
+.fortuity-dropdown{display:none}body.fortuity-nav-open .fortuity-dropdown{display:block}
